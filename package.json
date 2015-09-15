@@ -1,0 +1,15 @@
+{
+  "name": "sharding-router",
+  "version": "0.0.6",
+  "private": false,
+  "dependencies": {
+    "bignumber.js": "1.0.1",
+    "async": "0.2.9",
+    "mysql": "2.0.0-alpha8"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "vertical":[
+        {
+            "database" : "manage",
+            "tables":[
+                "gen_player_seqid",
+                "gen_world_seqid"
+            ],
+            "master":"localhost:3306",
+            "slaves":[
+                "localhost:3306"
+            ]
+        }
+    ]
+}
